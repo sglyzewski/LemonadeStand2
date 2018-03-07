@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LemonadeStand2
+{
+    class Ice : Item
+    {
+        
+
+        public Ice()
+        {
+            itemName = "ice";
+      
+            
+        }
+    }
+}
+
+  
